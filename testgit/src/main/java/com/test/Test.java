@@ -4,6 +4,6 @@ public class Test {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("this  is Success for testing");
-		system.out.println("this is for manoj testing11");
+		System.out.println("this is for manoj testing11");
 	}
 }
